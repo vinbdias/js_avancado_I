@@ -4,81 +4,41 @@
 		"selected_items":
 		[
 			[
-				"v",
-				"valueOf() -> number\tfn "
-			],
-			[
-				"fun",
-				"function\t? "
+				"Negoc",
+				"Negociacao\t(Negociacao.js)"
 			],
 			[
 				"va",
-				"valor"
+				"valor\t(index.html)"
 			],
 			[
-				"get",
-				"getQuantidade\t(Negociacao.js)"
+				"text",
+				"textContent"
 			],
 			[
-				"ge",
-				"getData\t(Negociacao.js)"
+				"numer",
+				"numero_tentativas"
 			],
 			[
-				"respo",
-				"resposta"
+				"nume",
+				"numero_tentativas"
 			],
 			[
-				"redes",
-				"redes-sociais.css\t(acessar.php)"
-			],
-			[
-				"regis",
-				"registerTask"
-			],
-			[
-				"use",
-				"useminPrepare"
-			],
-			[
-				"re",
-				"registerTask"
-			],
-			[
-				"font-s",
-				"font-size"
-			],
-			[
-				"text-a",
-				"text-align"
-			],
-			[
-				"load",
-				"loadNpmTasks"
-			],
-			[
-				"cadastrar",
-				"cadastrar_lead_layout2\t(acessar2.php)"
-			],
-			[
-				"lay",
-				"layout2-exibindo"
-			],
-			[
-				"fade",
-				"fadeIn\t(acessar2.php)"
-			],
-			[
-				"layout",
-				"layout2-grupo"
-			],
-			[
-				"layou",
-				"layout2-grupo"
+				"up",
+				"update"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "package-lock.json",
+			"settings":
+			{
+				"buffer_size": 40057,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -96,29 +56,31 @@
 				"Package Control: Install Package"
 			],
 			[
-				"Package Control: insta",
-				"Package Control: Install Package"
-			],
-			[
 				"Package Control: ins",
 				"Package Control: Install Package"
 			],
 			[
-				"Package Control: ",
-				"Package Control: Remove Package"
+				"Package Control: In",
+				"Package Control: Install Package"
 			],
 			[
-				"Package Control: instal",
+				"Package Control: Ins",
 				"Package Control: Install Package"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
 			]
 		],
-		"width": 540.0
+		"width": 500.0
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 130.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Package Control: Install Package"
 		]
 	},
 	"distraction_free":
@@ -132,79 +94,43 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp/www/alura/js_avancado_I",
-		"/C/wamp/www/alura/js_avancado_I/javascript-avancado-i-aula1"
+		"/C/alura/js_avancado_I"
 	],
 	"file_history":
 	[
-		"/C/wamp/www/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/index.html",
-		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-		"/C/wamp/www/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app/models/Negociacao.js",
-		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
-		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
-		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/User/Tern.sublime-settings",
-		"/C/wamp/www/lisboadesenvolvimento/admin/index.php",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/acessar.php",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/index.php",
-		"/C/wamp/www/lisboadesenvolvimento/Gruntfile.js",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/conteudo_especial.js",
-		"/C/wamp/www/lisboadesenvolvimento/dist/conteudo-especial/index.php",
-		"/C/wamp/www/lisboadesenvolvimento/includes/topo.php",
-		"/C/wamp/www/lisboadesenvolvimento/agenda/evento.php",
-		"/C/wamp/www/alura-grunt/projeto/public/index.html",
-		"/C/wamp/www/alura-grunt/projeto/Gruntfile.js",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/salvar_site_action2.php",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/salvar_site_action.php",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/email_action2.php",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/estilo_conteudo_especial.css",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/conteudo.php",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/redes-sociais.css",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/acessar2.php",
-		"/C/wamp/www/lisboadesenvolvimento/dist/admin/assets/vendor/sweetalert/dist/sweetalert.min.js",
-		"/C/wamp/www/lisboadesenvolvimento/dist/admin/index.php",
-		"/C/wamp/www/lisboadesenvolvimento/index.php",
-		"/C/wamp/www/lisboadesenvolvimento/admin/agenda/alterar.php",
-		"/C/wamp/www/lisboadesenvolvimento/admin/galeria_fotos/alterar.php",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/leads.php",
-		"/C/wamp/www/lisboadesenvolvimento/admin/arquivos/index.php",
-		"/C/wamp/www/lisboadesenvolvimento/admin/agenda/alterar_textos_action.php",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/verifica_cadastro.php",
-		"/C/wamp/www/lisboadesenvolvimento/dist/conteudo-especial/acessar.php",
-		"/C/wamp/www/lisboadesenvolvimento/dist/js/jquery-1.12.3.min.js",
-		"/C/wamp/www/lisboadesenvolvimento/dist/conteudo-especial/conteudo.php",
-		"/C/wamp/www/lisboadesenvolvimento/dist/conteudo-especial/conteudo2.php",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/untitled.html",
-		"/C/wamp/www/lisboadesenvolvimento/dist/conteudo-especial/acessar2.php",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/email_action_indicados.php",
-		"/C/wamp/www/lisboadesenvolvimento/dist/conteudo-especial/email_action2.php",
-		"/C/wamp/www/lisboadesenvolvimento/dist/conteudo-especial/email_action_indicados.php",
-		"/C/wamp/www/lisboadesenvolvimento/admin/conteudo_especial/acessos.php",
-		"/C/wamp/www/lisboadesenvolvimento/admin/conexao/conecta.php",
-		"/C/wamp/www/lisboadesenvolvimento/js/modernizr.js",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/email_action.php",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/jquery-1.12.3.min.js",
-		"/C/wamp/www/alura-grunt/projeto/public/js/index.js",
-		"/C/wamp/www/alura-grunt/projeto/public/coffee/teste.coffee",
-		"/C/wamp/www/alura-grunt/projeto/public/css/teste.css",
-		"/C/wamp/www/alura-grunt/projeto/dist/index.html",
-		"/C/wamp/www/alura-grunt/projeto/dist/css/ebb6096a.index.min.css",
-		"/C/wamp/www/alura-grunt/projeto/dist/js/index.js",
-		"/C/wamp/www/alura-grunt/projeto/public/less/teste.less",
-		"/C/wamp/www/alura-grunt/projeto/dist/js/index.min.js",
-		"/C/wamp/www/alura-grunt/projeto/dist/css/index.min.css",
-		"/C/wamp/www/alura-grunt/projeto/dist/css/index.css",
-		"/C/wamp/www/alura-grunt/projeto/dist/css/base.css",
-		"/C/wamp/www/alura-grunt/projeto/dist/img/grunt-banner.png",
-		"/C/wamp/www/lisboadesenvolvimento/admin/mailchimp/funcoes.php",
-		"/C/wamp/www/lisboadesenvolvimento/conteudo-especial/conteudo_especial_novo.js",
-		"/C/wamp/www/lisboadesenvolvimento/web.config",
-		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/User/(Windows).sublime-mousemap",
-		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/index.js",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app/models/Negociacao.js",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/index.html",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/models/Negociacao.js",
+		"/C/alura/js_avancado_I/js/index.js",
+		"/C/alura/react_parte_1/cdc-admin/src/App.js",
+		"/C/alura/react_parte_1/cdc-admin/src/index.js",
+		"/C/alura/react_parte_1/cdc-admin/public/index.html",
+		"/C/bash_on_ubuntu_on_windows/curso_ruby_alura/rascunho_exercicios.rb",
+		"/C/bash_on_ubuntu_on_windows/curso_ruby_alura/maior_ou_menor.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/lib/tasks/migrar_senhas.rake",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/db/migrate/20180402001204_add_password_digest_to_users.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/models/user.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/Rakefile",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/views/users/edit.html.erb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/views/users/new.html.erb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/views/users/show.html.erb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/views/users/_form.html.erb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/config/routes.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/views/home/index.html.erb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/controllers/home_controller.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/controllers/users_controller.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/curso_ruby_alura/maior_ou_menor.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/controllers/rooms_controller.rb",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/maior_ou_menor.rb",
+		"/C/Users/VinBDias/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/guests_controller",
+		"/C/r_on_r_on_bash_on_ubuntu_on_windows/colchonet/app/controllers/guests_controller.rb",
+		"/C/Users/VinBDias/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 0.0
 	},
 	"find_in_files":
 	{
@@ -218,31 +144,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			".css",
-			"<script src=",
-			".js",
-			"console.log",
-			"$fun",
-			"email_action",
-			".css",
-			".js",
-			".css",
-			".js",
-			".css",
-			".js",
-			".css",
-			"cadastrar_email",
-			"bootstrap",
-			"</section",
-			"<section",
-			".js",
-			".css",
-			"else:",
-			"-",
-			"layout2-sucesso",
-			"layout2-esconder",
-			"layout2-grupo",
-			"$dados_arquivo"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -250,9 +151,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"layout2-escondido",
-			"layout2-exibindo",
-			"layout2-esconder"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -263,18 +161,49 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "package-lock.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 0.0
 	},
 	"input":
 	{
-		"height": 38.0
+		"height": 35.0
 	},
 	"layout":
 	{
@@ -299,10 +228,6 @@
 		]
 	},
 	"menu_visible": true,
-	"output.SublimeLinter":
-	{
-		"height": 0.0
-	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -311,7 +236,7 @@
 	"project": "js_avancado_I.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 0.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -349,7 +274,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 265.0,
+	"side_bar_width": 252.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
