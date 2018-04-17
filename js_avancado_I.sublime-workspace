@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"get",
+				"getTime"
+			],
+			[
 				"Negoc",
 				"Negociacao\t(Negociacao.js)"
 			],
@@ -32,11 +36,32 @@
 	"buffers":
 	[
 		{
-			"file": "package-lock.json",
+			"file": "javascript-avancado-i-aula1/aluraframe/client/index.html",
 			"settings":
 			{
-				"buffer_size": 40057,
-				"line_ending": "Unix"
+				"buffer_size": 1882,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/Users/VinBDias/AppData/Roaming/Sublime Text 3/Packages/User/TernJS.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "javascript-avancado-i-aula1/aluraframe/client/js/app/models/Negociacao.js",
+			"settings":
+			{
+				"buffer_size": 482,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -53,6 +78,10 @@
 		[
 			[
 				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:install",
 				"Package Control: Install Package"
 			],
 			[
@@ -94,10 +123,18 @@
 	},
 	"expanded_folders":
 	[
-		"/C/alura/js_avancado_I"
+		"/C/alura/js_avancado_I",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app/helpers",
+		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app/models"
 	],
 	"file_history":
 	[
+		"/C/alura/js_avancado_I/package-lock.json",
 		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/index.js",
 		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/js/app/models/Negociacao.js",
 		"/C/alura/js_avancado_I/javascript-avancado-i-aula1/aluraframe/client/index.html",
@@ -161,16 +198,46 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "package-lock.json",
+					"file": "javascript-avancado-i-aula1/aluraframe/client/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 40057,
+						"buffer_size": 1882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1882,
+								1882
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/VinBDias/AppData/Roaming/Sublime Text 3/Packages/User/TernJS.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -183,15 +250,43 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1170.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "javascript-avancado-i-aula1/aluraframe/client/js/app/models/Negociacao.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
